@@ -6,7 +6,8 @@
  *    * main - checks if positive, zero or negative
  *       *
  *          *Return: zero
- *             */
+ *
+ */
 int main(void)
 {
 	int n;
